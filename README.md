@@ -1,4 +1,4 @@
-### Olá �😄👋
+### Olá 😄👋
 <h2>Meu Nome é Jorge</h2>
 <h3>🌱Aprendendo JavaScript</h3>
 <div>
