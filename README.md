@@ -1,6 +1,7 @@
 ### Olá 😄👋
 <h2>Meu Nome é Jorge</h2>
 <h3>🌱Aprendendo JavaScript</h3>
+<h3>🔮Futuro Full-Stack</3>
 <div>
   <a href="https://github.com/011Jorge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=011Jorge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
