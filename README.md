@@ -1,5 +1,5 @@
 # Seja Bem vindo ☕🍂
-  <img src="computer-illustration.png" alt="icone-astronauta" width="300px" height="200px">
+  <img src="astro-chat.jpg" alt="icone-astronauta" width="300px" height="300px">
 
 <div id="main">
 
