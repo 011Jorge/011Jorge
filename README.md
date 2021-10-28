@@ -1,8 +1,10 @@
-### Seja Bem vindo ☕🍂
+# Seja Bem vindo ☕🍂
+  <img src="computer-illustration.png" alt="icone-astronauta" width="300px" height="200px">
+
 <div id="main">
 
   <div>
-    <p>🕴 Estudando programação no CodeClub e Sociedade do Código.</p>
+    <h2>🕴 Estudando programação no CodeClub e Sociedade do Código.</h2>
     <p>💻 <i>Tecnologias e Ferramentas</i></p>
     <ul>
       <li>HTML5</li>
@@ -19,15 +21,7 @@
   </div>
   
 
-  <img src="computer-illustration.png" alt="icone-astronauta" width="300px" height="200px">
 </div>
-
-
-<style>
-  #main {
-    display: flex;
-  }
-</style>
 
 
 <div>
