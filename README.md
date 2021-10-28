@@ -7,7 +7,7 @@
     <h2>🕴 Estudando programação no CodeClub e Sociedade do Código.</h2>
     <p>💻 <i>Tecnologias e Ferramentas</i></p>
     <ul>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <li>HTML5</li>
       <li>CSS3</li>
       <li>JavaScript</li>
       <li>Git & GitHub</li>
