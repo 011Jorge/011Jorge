@@ -1,4 +1,4 @@
-# Seja Bem vindo ☕🍂
+# Seja Bem vindo(a) ☕🍂
   <img src="computer-illustration.png" alt="icone-astronauta" width="300px" height="200px">
 
 <div id="main">
