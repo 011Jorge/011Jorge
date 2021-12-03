@@ -10,12 +10,12 @@
       <li>HTML5</li>
       <li>CSS3</li>
       <li>JavaScript</li>
+      <li>Node.js</li>
       <li>Git & GitHub</li>
     </ul>
     <p>🧐 <i>Tecnologias que tenho objetivos e curiosidade</i></p>
     <ul>
       <li>React.js</li>
-      <li>Node.js</li>
       <li>C#</li>
     </ul>
   </div>
