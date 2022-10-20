@@ -10,6 +10,7 @@ My name is Jorge, estudante de programação, futuro dev full-stack & criador de
 function SobreMim() {
  const name = "Jorge Vicente"
  const age = 17
+ const email = "vicentejorge187@gmail.com"
  
  const area = "Front-end"
  const future = "Full-stack"
