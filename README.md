@@ -19,7 +19,7 @@ function AboutMe() {
  const email = "vicentejorge187@gmail.com"
  
  const area = "Full-stack"
- const details = ["Incomum", "Inovador", "Pesquisador", "Curioso"]
+ const skills = ["Incomum", "Inovador", "Pesquisador", "Curioso"]
 }
 ```
 
