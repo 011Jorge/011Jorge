@@ -47,7 +47,7 @@ function AboutMe() {
  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-## **GitHub Estatísticas:**
+## **GitHub Estatísticas: **
 
 <a href="https://github.com/011Jorge">
   <img height="180em" display="flex" src="https://github-readme-stats.vercel.app/api?username=011Jorge&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
