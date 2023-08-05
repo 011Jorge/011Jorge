@@ -1,6 +1,6 @@
 ## Hello World! 🌎👋
 
-My name is Jorge, estudante de programação, futuro dev full-stack & criador de conteúdo!
+My name is Jorge, estudante de programação, futuro dev full-stack & criador de conteúdo.
 
 
 <div> 
